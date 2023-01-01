@@ -23,7 +23,7 @@ p {
   }
 button {
  background-color: lightgrey;
- font-size: 15px;
+ font-size: 22px;
  font-weight: 700;
  border-radius: 25%;
  border: 20px;
@@ -38,8 +38,7 @@ button {
      cursor: pointer;
   }
 #button1{
-  margin-right: 10px;  
-  margin-left: 50px;  
+  margin-right: 10px;   
 }
   .lotto {
     display: block;
