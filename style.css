@@ -1,0 +1,52 @@
+body {
+  background-image: url('https://raw.githubusercontent.com/tobiarnold/LottozahlenGenerator/main/Lotto.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family:  "Open Sans", Arial;
+}
+h1 {
+    margin-top:150px;
+    text-align:center;
+    text-shadow: 0px -2px 4px #fff, 0px -2px 10px #FF3, 0px -10px 20px #F90, 0px -20px 40px #C33;
+    font-size: 50px;
+}
+p {
+    text-align:center;
+    text-shadow: 0px -2px 4px #fff, 0px -2px 10px #FF3, 0px -10px 20px #F90, 0px -20px 40px #C33;
+    font-size: 30px;
+}
+.button-group {
+    display: flex;
+    justify-content: center;
+   
+  }
+button {
+ background-color: lightgrey;
+ font-size: 25px;
+ font-weight: 700;
+ border-radius: 25%;
+ border: 20px;
+ color: black;
+ padding: 50px;
+ text-align: center;
+ margin-bottom: 50px;
+
+}
+ button:hover {
+    background-color: #ff2a26;
+     cursor: pointer;
+  }
+#button1{
+  margin-right: 10px;  
+  margin-left: 50px;  
+}
+  .lotto {
+    display: block;
+    margin: auto;
+    text-align: center;
+      text-shadow: 0px -2px 4px #fff, 0px -2px 10px #FF3, 0px -10px 20px #F90, 0px -20px 40px #C33;
+    font-size: 30px;
+    font-weight: 700;
+  }
